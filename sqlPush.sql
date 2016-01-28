@@ -1,0 +1,1 @@
+LOAD DATA LOCAL INFILE 'payload.csv' INTO TABLE `wifi`.`aps` FIELDS TERMINATED BY ',';
